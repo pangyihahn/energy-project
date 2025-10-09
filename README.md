@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This data visualization project investigates global trends in greenhouse gas (GHG) emissions, energy consumption, and electricity generation from **2000 to 2021**. Built using **R** and the **tidyverse** package.
+This data visualization project investigates global trends in greenhouse gas (GHG) emissions, energy consumption, and electricity generation from **2000 to 2021**. Built using **R** and the **Tidyverse** package.
 
 View the HTML report here:  
 [https://godhahn.github.io/energy-project/](https://godhahn.github.io/energy-project/)
